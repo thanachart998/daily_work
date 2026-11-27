@@ -1,8 +1,8 @@
 {
   "app": "worklog-local",
-  "pid": 6856,
+  "pid": 5908,
   "port": 3000,
   "host": "127.0.0.1",
-  "dbPath": "C:\\Project-coding\\daily_work\\data\\worklog.db",
-  "startedAt": "2026-11-26T11:55:33+07:00"
+  "dbPath": "C:\\Project-coding\\daily_work\\daily_work\\data\\worklog.db",
+  "startedAt": "2026-11-27T15:11:30+07:00"
 }
