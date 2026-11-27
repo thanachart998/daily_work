@@ -1,0 +1,19 @@
+{
+  "name": "PlanWorkFlow",
+  "short_name": "PlanWorkFlow",
+  "description": "ระบบวางแผน บันทึกงานประจำวัน และติดตามผลงาน (PlanWorkFlow)",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#007AFF",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
